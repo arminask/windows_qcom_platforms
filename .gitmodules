@@ -28,3 +28,9 @@
 [submodule "components/QC8996"]
 	path = components/QC8996
 	url = https://github.com/WOA-Project/windows_silicon_qcom_istari
+[submodule "components/QC7325"]
+	path = components/QC7325
+	url = https://github.com/arminask/windows_silicon_qcom_yupik
+[submodule "components/Devices/EB3G2"]
+	path = components/Devices/EB3G2
+	url = https://github.com/arminask/windows_oem_thundercomm_eb3g2
