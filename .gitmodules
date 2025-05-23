@@ -22,9 +22,6 @@
 [submodule "components/QC7125"]
 	path = components/QC7125
 	url = https://github.com/WOA-Project/windows_silicon_qcom_rennell
-[submodule "components/QC7325"]
-	path = components/QC7325
-	url = https://github.com/WOA-Project/windows_silicon_qcom_kodiak
 [submodule "components/QC8998"]
 	path = components/QC8998
 	url = https://github.com/WOA-Project/windows_silicon_qcom_nazgul
