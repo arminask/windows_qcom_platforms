@@ -1,33 +1,9 @@
-[submodule "components/QC8150"]
-	path = components/QC8150
-	url = https://github.com/WOA-Project/windows_silicon_qcom_hana
-[submodule "components/QC8250"]
-	path = components/QC8250
-	url = https://github.com/WOA-Project/windows_silicon_qcom_kona
+[submodule "components/QC845"]
+	path = components/QC845
+	url = https://github.com/WOA-Project/windows_silicon_qcom_napali
 [submodule "components/QC8350"]
 	path = components/QC8350
 	url = https://github.com/WOA-Project/windows_silicon_qcom_lahaina
-[submodule "components/QC8450"]
-	path = components/QC8450
-	url = https://github.com/WOA-Project/windows_silicon_qcom_waipio
-[submodule "components/QC8550"]
-	path = components/QC8550
-	url = https://github.com/WOA-Project/windows_silicon_qcom_kailua
-[submodule "components/QC8650"]
-	path = components/QC8650
-	url = https://github.com/WOA-Project/windows_silicon_qcom_lanai
-[submodule "components/QC670"]
-	path = components/QC670
-	url = https://github.com/WOA-Project/windows_silicon_qcom_warlock
-[submodule "components/QC7125"]
-	path = components/QC7125
-	url = https://github.com/WOA-Project/windows_silicon_qcom_rennell
-[submodule "components/QC8998"]
-	path = components/QC8998
-	url = https://github.com/WOA-Project/windows_silicon_qcom_nazgul
-[submodule "components/QC8996"]
-	path = components/QC8996
-	url = https://github.com/WOA-Project/windows_silicon_qcom_istari
 [submodule "components/QC7325"]
 	path = components/QC7325
 	url = https://github.com/arminask/windows_silicon_qcom_yupik
