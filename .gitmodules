@@ -10,3 +10,6 @@
 [submodule "components/Devices/EB3G2"]
 	path = components/Devices/EB3G2
 	url = https://github.com/arminask/windows_oem_thundercomm_eb3g2
+[submodule "components/Devices/Lemonade"]
+	path = components/Devices/Lemonade
+	url = https://github.com/arminask/windows_oem_oneplus_lemonade
